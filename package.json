@@ -1,0 +1,12 @@
+{
+  "name": "cyncode-backend",
+  "version": "1.0.0",
+  "description": "node express server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cpdev",
+  "license": "ISC"
+}
